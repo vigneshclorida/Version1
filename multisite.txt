@@ -1,0 +1,30 @@
+
+ The Reseller (Vendor) and end user concept termed as Multi-vendor or either Marketplace. Multisites cannot handle with this reseller concept and the admin only can manage with the products of reseller here. 
+
+We have readymade multi-vendor or Marketplace plugin for WP say "Product vendors" and "WC vendors", here is our comparative analysis of Multistore plugin (Referred by you) and the above said two marketplace plugins.
+
+In this attachment, the fields denotes "Yes" will be covered by the default feature of the plugin. Rest of the Fields with " No" need to develop those functionality additionally.
+
+Suggestion would be to use "WC vendors" over the "Product vendors" multi-vendor plugins. As per the requirement, the website needs Multi language support and Product vendors plugin is not compatible with WPML(Wordpress Multi Language) plugin.
+
+Additional development requires for,
+
+Reseller portal:
+
+1. Reseller Subscription
+2. Internal messaging system with admin
+3. Reseller has access to asked questions & claims from his customers (end users)
+4. Reseller set the status of the order (Prepared, Sent) and the system sends notifications to the end user
+5. Reseller receives a notification for rating the end user (and the system process it)
+
+End User portal:
+
+1. End user has  access to a map of resellers "near me"
+2. End user can ask for chat online support (mylivechat or any recommandation)
+3. End user can send a question to a reseller or file a complaint
+4. End user can see the progress of his order (status: Paid, Prepared, Sent, Delivered)
+5. End user receives a notification for rating the reseller (and the system process it)
+
+
+
+ 
