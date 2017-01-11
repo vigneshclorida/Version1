@@ -9,7 +9,7 @@ Suggestion would be to use "WC vendors" over the "Product vendors" multi-vendor 
 
 Additional development requires for,
 
-Reseller portal:
+***************Reseller portal:
 
 1. Reseller Subscription
 2. Internal messaging system with admin
